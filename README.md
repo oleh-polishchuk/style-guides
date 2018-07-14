@@ -1,9 +1,9 @@
 ## Contents
 
-- [HTML/CSS style guides](#html-css-style-guide)
-- [AngularJS style guides](#angularjs-style-guide)
+- [HTML/CSS style guides](#html-css-style-guides)
+- [AngularJS style guides](#angularjs-style-guides)
 - [REST API best practices](#rest-api-best-practices)
-- [JavaScript style guides](#javascript-style-guide)
+- [JavaScript style guides](#javascript-style-guides)
 - [My own style guides](#my-own-style-guides)
 
 ## HTML-CSS style guides
