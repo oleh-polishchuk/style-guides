@@ -4,6 +4,7 @@
 - [AngularJS style guides](#angularjs-style-guides)
 - [REST API best practices](#rest-api-best-practices)
 - [JavaScript style guides](#javascript-style-guides)
+- [JSON style guides](#json-style-guides)
 - [:sunglasses: My own style guides](#my-own-style-guides)
 
 ## HTML-CSS style guides
@@ -21,6 +22,10 @@
 ## JavaScript style guides
 
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+## JSON style guides
+
+- [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
 ## My Own style guides
 
